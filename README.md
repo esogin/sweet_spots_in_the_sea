@@ -18,5 +18,5 @@ Scripts repository structure
 3. annotation.sh
 4. transcriptomics.sh
 5. kalliso_counts.R
-   
+6. pac_bio_16S.R   
   
