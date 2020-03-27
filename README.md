@@ -1,5 +1,5 @@
 # ReadMe
-Repository containing data processing code used for Sogin et al. in prep *Sweet spots in the sea*. For notes, troubleshooting and other documentation please refer to the seagrassOmics repository. 
+Repository containing data processing code used for Sogin et al. in prep *Sweet spots in the sea*.  
 
 
 Scripts repository structure
